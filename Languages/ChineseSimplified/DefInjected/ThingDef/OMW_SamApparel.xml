@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <omw_SamMask.label>萨姆面具</omw_SamMask.label>
+  <omw_SamMask.description>一张手工制作的面具，外形仿照萨姆。</omw_SamMask.description>
+  <omw_SamMaskFlak.label>萨姆防弹面具</omw_SamMaskFlak.label>
+  <omw_SamMaskFlak.description>这款萨姆面具具备与防弹头盔相当的防护能力。</omw_SamMaskFlak.description>
+  <omw_SamCostume.label>萨姆服装</omw_SamCostume.label>
+  <omw_SamCostume.description>一套模仿萨姆造型的全身服装。</omw_SamCostume.description>
+  <omw_SamCostumeFlak.label>萨姆防弹服</omw_SamCostumeFlak.label>
+  <omw_SamCostumeFlak.description>这套萨姆全身服装具备与防弹夹克相当的防护能力。</omw_SamCostumeFlak.description>
+</LanguageData>

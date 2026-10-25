@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <omw_SamMask.label>Masque de Sam</omw_SamMask.label>
+  <omw_SamMask.description>Un masque fabriqué à la main à l'effigie de Sam.</omw_SamMask.description>
+  <omw_SamMaskFlak.label>Masque pare-éclats de Sam</omw_SamMaskFlak.label>
+  <omw_SamMaskFlak.description>Un masque de Sam offrant une protection équivalente à celle d'un casque pare-éclats.</omw_SamMaskFlak.description>
+  <omw_SamCostume.label>Costume de Sam</omw_SamCostume.label>
+  <omw_SamCostume.description>Un costume intégral à l'effigie de Sam.</omw_SamCostume.description>
+  <omw_SamCostumeFlak.label>Costume pare-éclats de Sam</omw_SamCostumeFlak.label>
+  <omw_SamCostumeFlak.description>Un costume intégral de Sam offrant une protection équivalente à celle d'une veste pare-éclats.</omw_SamCostumeFlak.description>
+</LanguageData>

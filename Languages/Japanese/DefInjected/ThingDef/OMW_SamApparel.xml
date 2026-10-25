@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <omw_SamMask.label>サムのマスク</omw_SamMask.label>
+  <omw_SamMask.description>サムを模して手作りされたマスク。</omw_SamMask.description>
+  <omw_SamMaskFlak.label>サムの防弾マスク</omw_SamMaskFlak.label>
+  <omw_SamMaskFlak.description>防弾ヘルメット相当の防護性能を備えたサムのマスク。</omw_SamMaskFlak.description>
+  <omw_SamCostume.label>サムの衣装</omw_SamCostume.label>
+  <omw_SamCostume.description>サムを模した全身衣装。</omw_SamCostume.description>
+  <omw_SamCostumeFlak.label>サムの防弾衣装</omw_SamCostumeFlak.label>
+  <omw_SamCostumeFlak.description>防弾ジャケット相当の防護性能を備えたサムの全身衣装。</omw_SamCostumeFlak.description>
+</LanguageData>

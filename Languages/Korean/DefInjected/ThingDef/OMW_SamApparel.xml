@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <omw_SamMask.label>샘 가면</omw_SamMask.label>
+  <omw_SamMask.description>샘의 모습을 본떠 손수 만든 가면입니다.</omw_SamMask.description>
+  <omw_SamMaskFlak.label>샘 방탄 가면</omw_SamMaskFlak.label>
+  <omw_SamMaskFlak.description>방탄 헬멧에 준하는 보호 성능을 갖춘 샘 가면입니다.</omw_SamMaskFlak.description>
+  <omw_SamCostume.label>샘 의상</omw_SamCostume.label>
+  <omw_SamCostume.description>샘의 모습을 본뜬 전신 의상입니다.</omw_SamCostume.description>
+  <omw_SamCostumeFlak.label>샘 방탄 의상</omw_SamCostumeFlak.label>
+  <omw_SamCostumeFlak.description>방탄 재킷에 준하는 보호 성능을 갖춘 샘 전신 의상입니다.</omw_SamCostumeFlak.description>
+</LanguageData>

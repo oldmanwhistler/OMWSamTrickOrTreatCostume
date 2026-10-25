@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <omw_SamMask.label>Маска Сэма</omw_SamMask.label>
+  <omw_SamMask.description>Маска ручной работы, повторяющая образ Сэма.</omw_SamMask.description>
+  <omw_SamMaskFlak.label>Бронемаска Сэма</omw_SamMaskFlak.label>
+  <omw_SamMaskFlak.description>Маска Сэма с защитой на уровне бронешлема.</omw_SamMaskFlak.description>
+  <omw_SamCostume.label>Костюм Сэма</omw_SamCostume.label>
+  <omw_SamCostume.description>Полный костюм, повторяющий образ Сэма.</omw_SamCostume.description>
+  <omw_SamCostumeFlak.label>Бронекостюм Сэма</omw_SamCostumeFlak.label>
+  <omw_SamCostumeFlak.description>Полный костюм Сэма с защитой на уровне бронекуртки.</omw_SamCostumeFlak.description>
+</LanguageData>

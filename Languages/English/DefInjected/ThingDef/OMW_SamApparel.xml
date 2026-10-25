@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <omw_SamMask.label>Sam Mask</omw_SamMask.label>
+  <omw_SamMask.description>A handmade mask resembling Sam.</omw_SamMask.description>
+  <omw_SamMaskFlak.label>Sam Flak Mask</omw_SamMaskFlak.label>
+  <omw_SamMaskFlak.description>A Sam mask with flak-helmet-level protection.</omw_SamMaskFlak.description>
+  <omw_SamCostume.label>Sam Costume</omw_SamCostume.label>
+  <omw_SamCostume.description>A full-body costume resembling Sam.</omw_SamCostume.description>
+  <omw_SamCostumeFlak.label>Sam Flak Costume</omw_SamCostumeFlak.label>
+  <omw_SamCostumeFlak.description>A full-body Sam costume with flak-jacket-level protection.</omw_SamCostumeFlak.description>
+</LanguageData>

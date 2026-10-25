@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>[OMW] Sam Trick Or Treat Costume</name>
+  <packageId>oldmanwhistler.OMWSamTrickRTreatCostume</packageId>
+  <author>oldmanwhistler</author>
+  <description>Adds craftable Sam masks and full-body costumes in standard and flak-protection versions.</description>
+  <supportedVersions>
+    <li>1.6</li>  
+    <li>1.7</li>
+  </supportedVersions>
+</ModMetaData>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="HatMakeableBase">
+    <defName>omw_SamMask</defName>
+    <label>Sam Mask</label>
+    <description>A handmade mask resembling Sam.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <displayPriority>100</displayPriority>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/omw_SamMask</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <costList>
+      <Leather_Plain>25</Leather_Plain>
+    </costList>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <WorkToMake>1800</WorkToMake>
+      <Mass>0.14</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.5</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>0.5</EquipDelay>
+    </statBases>
+    <apparel>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <developmentalStageFilter>Child, Adult</developmentalStageFilter>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/omw_SamMask</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+      <drawData>
+        <dataNorth>
+          <layer>90</layer>          <!-- Raises the render layer depth specifically when facing North -->
+        </dataNorth>
+      </drawData>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options Inherit="False">
+        <li>
+          <only>(1,1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+    <tradeTags Inherit="False" />
+  </ThingDef>
+
+  <ThingDef ParentName="ArmorHelmetMakeableBase">
+    <defName>omw_SamMaskFlak</defName>
+    <label>Sam Mask Flak</label>
+    <description>A Sam mask with flak-helmet-level protection.</description>
+    <techLevel>Industrial</techLevel>
+    <recipeMaker>
+      <researchPrerequisite>FlakArmor</researchPrerequisite>
+      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+      <displayPriority>205</displayPriority>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/omw_SamMaskFlak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>1.0</drawSize>
+    </graphicData>
+    <uiIconScale>1.4</uiIconScale>
+    <statBases>
+      <WorkToMake>8000</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>1.2</Mass>
+      <StuffEffectMultiplierArmor>0.7</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.15</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>40</costStuffCount>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <Plasteel>10</Plasteel>
+    </costList>
+    <apparel>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <developmentalStageFilter>Child, Adult</developmentalStageFilter>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/omw_SamMaskFlak</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>IndustrialMilitaryAdvanced</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <drawData>
+        <dataNorth>
+          <layer>90</layer>          <!-- Raises the render layer depth specifically when facing North -->
+        </dataNorth>
+      </drawData>
+    </apparel>
+    <tradeTags Inherit="False" />
+  </ThingDef>
+
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>omw_SamCostume</defName>
+    <label>Sam Costume</label>
+    <description>A full-body costume resembling Sam.</description>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <displayPriority>215</displayPriority>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/omw_SamCostume</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Cloth>80</Cloth>
+    </costList>
+    <thingCategories>
+      <li>ApparelMisc</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>2</Mass>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.6</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.85</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Hands</li>
+        <li>Legs</li>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <developmentalStageFilter>Child, Adult</developmentalStageFilter>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/omw_SamCostume</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>IndustrialAdvanced</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+      <canBeDesiredForIdeo>false</canBeDesiredForIdeo>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options Inherit="False">
+        <li>
+          <only>(1,1,1,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+    <tradeTags Inherit="False" />
+  </ThingDef>
+
+  <ThingDef ParentName="ArmorMachineableBase">
+    <defName>omw_SamCostumeFlak</defName>
+    <label>Sam Costume Flak</label>
+    <description>A full-body Sam costume with flak-jacket-level protection.</description>
+    <techLevel>Industrial</techLevel>
+    <recipeMaker>
+      <researchPrerequisite>FlakArmor</researchPrerequisite>
+      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <displayPriority>225</displayPriority>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Pawn/Humanlike/Apparel/omw_SamCostumeFlak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.0</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <costList>
+      <Steel>70</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToMake>14000</WorkToMake>
+      <Mass>7</Mass>
+      <Flammability>0.6</Flammability>
+      <ArmorRating_Sharp>0.55</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.08</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.1</ArmorRating_Heat>
+      <Insulation_Cold>14.4</Insulation_Cold>
+      <Insulation_Heat>3</Insulation_Heat>
+      <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.12</MoveSpeed>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Hands</li>
+        <li>Legs</li>
+        <li>Feet</li>
+      </bodyPartGroups>
+      <developmentalStageFilter>Child, Adult</developmentalStageFilter>
+      <wornGraphicPath>Things/Pawn/Humanlike/Apparel/omw_SamCostumeFlak</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>IndustrialAdvanced</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <tradeTags Inherit="False" />
+  </ThingDef>
+</Defs>

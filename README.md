@@ -28,7 +28,7 @@ The costume version will retain Sam's costume colours from the movie.
 
 The flak armour version will take the material colour and is styleable.
 
-![Sam Flak Armour without Mask](https://raw.githubusercontent.com/oldmanwhistler/OMWSamTrickOrTreatCostume/refs/heads/main/Docs/Images/costumes_masks.png)
+![Sam Flak Armour without Mask](https://raw.githubusercontent.com/oldmanwhistler/OMWSamTrickOrTreatCostume/refs/heads/main/Docs/Images/flak-only.png)
 
 ![Sam Flak Armour with Mask](https://raw.githubusercontent.com/oldmanwhistler/OMWSamTrickOrTreatCostume/refs/heads/main/Docs/Images/flak-mask.png)
 
@@ -61,13 +61,10 @@ These aren't required but they unlock additional content.
 ## Links
 
 - [Changelog](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/CHANGELOG.md)
+- [Steam](https://steamcommunity.com/sharedfiles/itemedittext/?id=3827335380)
 - [GitHub](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume)
-- [Steam](not published yet)
 - [AI Disclosure](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/Docs/AI.md)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/LICENSE) for details.
+- [MIT License](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/LICENSE)
 
 ## DISCLAIMER
 

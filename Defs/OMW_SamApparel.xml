@@ -2,6 +2,7 @@
 <Defs>
   <ThingDef ParentName="HatMakeableBase">
     <defName>omw_SamMask</defName>
+    <generateAllowChance>0</generateAllowChance>
     <label>Sam Mask</label>
     <description>A handmade mask resembling Sam.</description>
     <recipeMaker>
@@ -59,6 +60,7 @@
 
   <ThingDef ParentName="ArmorHelmetMakeableBase">
     <defName>omw_SamMaskFlak</defName>
+    <generateAllowChance>0</generateAllowChance>
     <label>Sam Mask Flak</label>
     <description>A Sam mask with flak-helmet-level protection.</description>
     <techLevel>Industrial</techLevel>
@@ -119,6 +121,7 @@
 
   <ThingDef ParentName="ApparelMakeableBase">
     <defName>omw_SamCostume</defName>
+    <generateAllowChance>0</generateAllowChance>
     <label>Sam Costume</label>
     <description>A full-body costume resembling Sam.</description>
     <recipeMaker>
@@ -180,6 +183,7 @@
 
   <ThingDef ParentName="ArmorMachineableBase">
     <defName>omw_SamCostumeFlak</defName>
+    <generateAllowChance>0</generateAllowChance>
     <label>Sam Costume Flak</label>
     <description>A full-body Sam costume with flak-jacket-level protection.</description>
     <techLevel>Industrial</techLevel>

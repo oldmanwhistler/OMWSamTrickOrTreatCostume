@@ -30,7 +30,7 @@
     <apparel>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
       <bodyPartGroups>
-        <li>UpperHead</li>
+        <li>FullHead</li>
       </bodyPartGroups>
       <developmentalStageFilter>Child, Adult</developmentalStageFilter>
       <wornGraphicPath>Things/Pawn/Humanlike/Apparel/omw_SamMask</wornGraphicPath>
@@ -40,9 +40,7 @@
       <tags>
         <li>IndustrialBasic</li>
       </tags>
-      <defaultOutfitTags>
-        <li>Worker</li>
-      </defaultOutfitTags>
+      <defaultOutfitTags/>
       <drawData>
         <dataNorth>
           <layer>90</layer>          <!-- Raises the render layer depth specifically when facing North -->
@@ -99,7 +97,7 @@
     <apparel>
       <countsAsClothingForNudity>false</countsAsClothingForNudity>
       <bodyPartGroups>
-        <li>UpperHead</li>
+        <li>FullHead</li>
       </bodyPartGroups>
       <developmentalStageFilter>Child, Adult</developmentalStageFilter>
       <wornGraphicPath>Things/Pawn/Humanlike/Apparel/omw_SamMaskFlak</wornGraphicPath>
@@ -109,9 +107,7 @@
       <tags>
         <li>IndustrialMilitaryAdvanced</li>
       </tags>
-      <defaultOutfitTags>
-        <li>Soldier</li>
-      </defaultOutfitTags>
+        <defaultOutfitTags/>
       <drawData>
         <dataNorth>
           <layer>90</layer>          <!-- Raises the render layer depth specifically when facing North -->
@@ -169,9 +165,7 @@
       <tags>
         <li>IndustrialAdvanced</li>
       </tags>
-      <defaultOutfitTags>
-        <li>Worker</li>
-      </defaultOutfitTags>
+      <defaultOutfitTags/>
       <canBeDesiredForIdeo>false</canBeDesiredForIdeo>
     </apparel>
     <colorGenerator Class="ColorGenerator_Options">
@@ -248,9 +242,7 @@
       <tags>
         <li>IndustrialAdvanced</li>
       </tags>
-      <defaultOutfitTags>
-        <li>Soldier</li>
-      </defaultOutfitTags>
+      <defaultOutfitTags/>
     </apparel>
     <tradeTags Inherit="False" />
   </ThingDef>

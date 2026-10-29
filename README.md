@@ -60,7 +60,7 @@ These aren't required but they unlock additional content.
 
 ## Links
 
-- [Changelog](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/CHANGELOG.md)
+- [Changelog](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/Docs/CHANGELOG.md)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3827335380)
 - [GitHub](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume)
 - [AI Disclosure](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/Docs/AI.md)
@@ -69,3 +69,5 @@ These aren't required but they unlock additional content.
 ## DISCLAIMER
 
 This is an unofficial, non-commercial fan work, not affiliated with, endorsed by, or sponsored by Michael Dougherty or Sam: The Soul of Halloween. It does not include any assets or intellectual propery from Michael Dougherty, Trick 'R Treat, etc.
+
+![Splash](https://raw.githubusercontent.com/oldmanwhistler/OMWSamTrickOrTreatCostume/refs/heads/main/Docs/Images/splash-big.png)

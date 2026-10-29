@@ -48,7 +48,7 @@ The costume was based off of the style of [Malang Bodies](https://steamcommunity
 
 These aren't required but they unlock additional content.
 
-- COMING SOON: Samhain Xenotype (the Samhain can appear wearing this costume)
+- [Samhain Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3829680933) (the Samhain can appear wearing this costume)
 
 ## Technical Details
 
@@ -61,7 +61,7 @@ These aren't required but they unlock additional content.
 ## Links
 
 - [Changelog](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/CHANGELOG.md)
-- [Steam](https://steamcommunity.com/sharedfiles/itemedittext/?id=3827335380)
+- [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3827335380)
 - [GitHub](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume)
 - [AI Disclosure](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/Docs/AI.md)
 - [MIT License](https://github.com/oldmanwhistler/OMWSamTrickOrTreatCostume/blob/main/LICENSE)

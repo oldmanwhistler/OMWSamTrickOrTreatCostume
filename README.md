@@ -49,6 +49,7 @@ The costume was based off of the style of [Malang Bodies](https://steamcommunity
 These aren't required but they unlock additional content.
 
 - [Samhain Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3829680933) (the Samhain can appear wearing this costume)
+- [Samhain Xenotype - Hidden Hungers](https://steamcommunity.com/sharedfiles/filedetails/?id=3830647035) - Add-on to active the Anonymity and Dessert needs from the Costumed and Sweet Tooth genes. Requires Ideology.
 
 ## Technical Details
 
